@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chisomo-Chewele
-- 👀 I’m interested in C++ and nueral networks 
+- 👀 I’m interested in C++ and neural networks 
 - 🌱 I’m currently learning neural networks 
-- 💞️ I'm a software development efficient in python,C++,C#
+- 💞️ I'm a software developmer efficient in python,C++,C#
 
 <!---
 Chisomo-Chewele/Chisomo-Chewele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
